@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e280ad9a-7548-43a8-aa4b-5d0ae97e7752" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Quan_Ly_Nhan_Vien/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quan_Ly_Nhan_Vien/src/NhanVien_FullTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quan_Ly_Nhan_Vien/src/NhanVien_PastTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quan_Ly_Nhan_Vien/src/QL_NhanVien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Access modifier_Circle/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Access modifier_Circle/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Access modifier_Circle/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Access modifier_Circle/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Access modifier_Circle/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Access modifier_Circle/Access modifier_Circle.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Access modifier_Circle/src/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Access modifier_Circle/src/TestCircle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../He_cac_doi_tuong_hinh_hoc/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../He_cac_doi_tuong_hinh_hoc/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../He_cac_doi_tuong_hinh_hoc/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../He_cac_doi_tuong_hinh_hoc/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../He_cac_doi_tuong_hinh_hoc/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../He_cac_doi_tuong_hinh_hoc/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../He_cac_doi_tuong_hinh_hoc/He_cac_doi_tuong_hinh_hoc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../He_cac_doi_tuong_hinh_hoc/src/Circle_Cylinder/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../He_cac_doi_tuong_hinh_hoc/src/Circle_Cylinder/CircleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../He_cac_doi_tuong_hinh_hoc/src/Circle_Cylinder/Cylinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../He_cac_doi_tuong_hinh_hoc/src/Circle_Cylinder/CylinderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../He_cac_doi_tuong_hinh_hoc/src/ve/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../He_cac_doi_tuong_hinh_hoc/src/ve/CircleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../He_cac_doi_tuong_hinh_hoc/src/ve/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../He_cac_doi_tuong_hinh_hoc/src/ve/RectangleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../He_cac_doi_tuong_hinh_hoc/src/ve/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../He_cac_doi_tuong_hinh_hoc/src/ve/ShapeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../He_cac_doi_tuong_hinh_hoc/src/ve/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../He_cac_doi_tuong_hinh_hoc/src/ve/SquareTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thuc_Hanh_Static_Property/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thuc_Hanh_Static_Property/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thuc_Hanh_Static_Property/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thuc_Hanh_Static_Property/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thuc_Hanh_Static_Property/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thuc_Hanh_Static_Property/Thuc_Hanh_Static_Property.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thuc_Hanh_Static_Property/src/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thuc_Hanh_Static_Property/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eccess_modifier/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eccess_modifier/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eccess_modifier/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eccess_modifier/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eccess_modifier/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eccess_modifier/eccess_modifier.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eccess_modifier/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eccess_modifier/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eccess_modifier/src/TestStaticMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lop_va_doi_tuong_trong_java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lop_va_doi_tuong_trong_java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lop_va_doi_tuong_trong_java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lop_va_doi_tuong_trong_java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lop_va_doi_tuong_trong_java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lop_va_doi_tuong_trong_java/lop_va_doi_tuong_trong_java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lop_va_doi_tuong_trong_java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lop_va_doi_tuong_trong_java/src/Main_Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lop_va_doi_tuong_trong_java/src/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lop_va_doi_tuong_trong_java/src/Test.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2PlrnTQEnGpYVQm91rT58paRRUp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "corretto-1.8",
+    "last_opened_file_path": "E:/Project_md2/Bai4_Lop_va_Doi_Tuong_trong_Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "E:/Project_md2/Module_2/untitled/untitled1/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="QuadraticEquation" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuadraticEquation.main" />
+      <module name="Module_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QuadraticEquation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e280ad9a-7548-43a8-aa4b-5d0ae97e7752" name="Changes" comment="" />
+      <created>1684042677290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684042677290</updated>
+      <workItem from="1684042678215" duration="2576000" />
+      <workItem from="1684045290502" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
