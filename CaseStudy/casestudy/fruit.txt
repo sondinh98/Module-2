@@ -1,0 +1,9 @@
+1,Cam Sành,23000.0,50,Cam Sành Hà Giang
+2,Dâu Tây,15000.0,100,Dâu Tây Đà Lạt Lâm Đồng
+3,Hồng Bì,20000.0,450,Hồng Bì Hà Tĩnh
+4,Mận,20000.0,100,Mận Bến Tre
+5,Nho,160000.0,200,Nho Ninh Thuận
+6,Nhãn,15000.0,100,abc
+7,Vú Sữa,15000.0,160,Vú Sữa Tiền Giang
+8,Xoài,60000.0,150,Xoài tượng Bình Định
+9,Ổi,30000.0,40,Ổi Hưng Yên

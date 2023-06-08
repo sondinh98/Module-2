@@ -1,0 +1,4 @@
+123123,Nguyễn Văn A,01-01-1999,Nam,FullTimeEmployee,2.0
+123456,Trần Quang B,02-02-2000,Nam,FullTimeEmployee,1.5
+212121,Võ Văn T,04-04-2002,Nữ,PartTimeEmployee,30
+233223,Hoàng Thị P,05-05-2001,Nữ,PartTimeEmployee,35
