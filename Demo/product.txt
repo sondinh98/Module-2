@@ -1,0 +1,7 @@
+123456,Quần Jean,190000.00,100,Quần Jean nam nữ cao cấp
+123455,Áo T-Shirt,150000.00,150,Áo T-shirt mát mẻ
+123454,Áo Thun Nam,99000.00,200,Áo Thun giữ nhiệt
+123443,Áo Sơ Mi,199000.00,50,Áo sơ mi cổ tàu
+123452,Áo Polo Nam,100000.00,150,Áo Polo bassic
+123451,Quần Tây,149000.00,250,Quần nam lịch sự và sang trọng
+123450,Quần Kaki,179000.00,150,Quần nam được ưa chuộng 
